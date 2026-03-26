@@ -10,9 +10,19 @@ This Power BI project analyzes YouTube data to uncover insights on uploads, view
 - Interactive visuals with filters
 - Page navigation
 
+## 📊 Dashboard Preview
+
+### 🔹 Overview Page
+![Page 1](dashboard_page1.png)
+
+### 🔹 Detailed Analysis Page
+![Page 2](dashboard_page2.png)
+
 ## 🛠️ Tools
 Power BI Desktop | Power BI Service
 
 ## 📁 File
 PowerBI_Assignment_Global_YouTube_Statistics_4280.pbix
+
+
 
